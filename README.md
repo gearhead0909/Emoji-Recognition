@@ -50,4 +50,4 @@ Then we will save our model for future use.
 Then Emoji_recognition.ipynb to runn our real time model.
 A sample of our model is shown below :-
 
-[![SC2 Video](https://github.com/gearhead0909/Emoji-Recognition/blob/master/Emoji%20Recognition.mp4)]
+<img src="https://github.com/gearhead0909/Emoji-Recognition/blob/master/Emoji%20Recognition%20screenshot.png" alt="alt text" width="500" height="300">
